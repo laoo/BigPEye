@@ -1,7 +1,5 @@
 #pragma once
 
-// add headers that you want to pre-compile here
-#include "framework.h"
 
 #define WIN32_LEAN_AND_MEAN             // Exclude rarely-used stuff from Windows headers
 #define NOMINMAX
@@ -33,7 +31,4 @@ using ComPtr = Microsoft::WRL::ComPtr<T>;
 #include <filesystem>
 #include <fstream>
 
-#include <smmintrin.h>
-
-#include "imgui.h"
 

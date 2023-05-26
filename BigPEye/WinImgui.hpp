@@ -1,5 +1,7 @@
 #pragma once
 
+#include "imgui.h"
+
 class WinImgui
 {
 public:

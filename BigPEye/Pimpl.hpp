@@ -1,8 +1,9 @@
 #pragma once
 
-class WinImgui;
-
 #include "EyeDesc.hpp"
+#include "imgui.h"
+
+class WinImgui;
 
 class Pimpl
 {

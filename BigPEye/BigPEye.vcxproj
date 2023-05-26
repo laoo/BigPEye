@@ -92,7 +92,6 @@
   <ItemGroup>
     <ClInclude Include="BigPEye.h" />
     <ClInclude Include="EyeDesc.hpp" />
-    <ClInclude Include="framework.h" />
     <ClInclude Include="imgui\imconfig.h" />
     <ClInclude Include="imgui\imgui.h" />
     <ClInclude Include="imgui\imgui_internal.h" />
