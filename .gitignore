@@ -1,3 +1,4 @@
 BigPEye/x64/
+*.vcxproj.user
 x64/
 .vs/
